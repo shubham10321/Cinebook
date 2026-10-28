@@ -1,0 +1,11 @@
+bin/
+out/
+*.class
+db.properties
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+thumbs.db
+*.log

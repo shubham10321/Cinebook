@@ -1,0 +1,6 @@
+# Copy this file as db.properties in the project root
+# and fill in your MySQL details. Do not share db.properties.
+
+db.url=jdbc:mysql://localhost:3306/cinebook?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+db.user=root
+db.password=YOUR_MYSQL_PASSWORD
